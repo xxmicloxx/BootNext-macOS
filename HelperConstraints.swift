@@ -24,7 +24,7 @@ class HelperConstants {
         HelperConstants.InstallPermission
     ]
     
-    static let Version = "1.0.1"
+    static let Version = "1.0.2"
 }
 
 @objc enum HelperError: Int {
